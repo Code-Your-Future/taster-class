@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - "7"
+before_install:
+  - chmod +x publish-book.sh
+  - openssl aes-256-cbc -K $encrypted_4c0bff9df557_key -iv $encrypted_4c0bff9df557_iv -in CyfSyllabus_rsa.enc -out CyfSyllabus_rsa -d
+install:
+  - npm install -g gitbook-cli
+script:
+  - gitbook install
+  - gitbook build .
+after_success:
+  - eval "$(ssh-agent)"
+  - chmod 600 ./CyfSyllabus_rsa
+  - ssh-add ./CyfSyllabus_rsa
+  - ./publish-book.sh master
