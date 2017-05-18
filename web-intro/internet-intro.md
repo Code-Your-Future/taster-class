@@ -1,8 +1,8 @@
-# Web Intro
-**What will we learn today?**
-- How the internet works?
-- What are the different pieces of a website
-- A bit of HTML/CSS
+# Introducing the Internet
+
+> This is an activity involving a game where the students have to simulate the internet, by taking roles of different components (server, client, router etc..) to understand how it works.
+> 
+> It could be followed by the introduction to [Creating Websites](html-intro) activity (HTML, CSS).
 
 
 # Let's start
