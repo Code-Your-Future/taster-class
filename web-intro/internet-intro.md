@@ -5,18 +5,15 @@
 - A bit of HTML/CSS
 
 
-# Intro
+# Let's start
 
-We ask the stduents several intro questions (5 minutes or so)
+We ask the students several intro questions
 
-1.  Who uses the internet? What do you use it for? What are you favorite websites?
+1. Who uses the internet? What do you use it for? What are you favorite websites?
 
-2. What is the internet?
+2. What are their favorite websites? (we use those in the Game after)
 
-3. Who controls the internet?
-
-4. What are their favorite websites? (we use those in the Game after)
-
+3. What is the internet? Who controls the internet? Who invented the internet?
 
 # How the internet works?
 
