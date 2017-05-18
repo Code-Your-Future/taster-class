@@ -81,6 +81,7 @@ Now when we make a request, it goes and asks the **DNS** which points to the rig
 
 ### ToDO:
 - Artifacts: What do we need exactly? We need a piece of paper for the request, another for response (then multiple for breaking out a big response - maybe with different colors). We probably also some kind of labels on the students (Server, Client, Router etc...)
+The messages we gave around should have HTML/CSS(/JS)
 
 - Who does the message? it should not be the router going back and forth - we can have a role of a router's worker? basically a message carrier?
 
@@ -93,6 +94,6 @@ We wrap up by explaining:
 > This would lead us to the next step - what do the piece of paper contain? HTML, CSS and JS.
 
 
-![What makes a web page](../_assets/web-intro/webpage-parts.png)
+![What makes a web page](../assets/web-intro/webpage-parts.png)
 
-# Let's create a Web Page!
+# [Let's create a Web Page!](html-intro.md)

@@ -1,10 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* Games
-  * [Web intro](/web-intro/web-intro-guide.md) - Mentors's Guide
+
+* [What is the Internet?](/web-intro/web-intro-guide.md) 
+
+* [What is a Web Page?](/web-intro/html-intro.md)
+
+* What is Programming?
   * [Make a Sandwich](/sandwich/sandwich.md)
   * [Directions Game](/directions/directions.md)
 
-* [Other Ideas](ideas.md)
+* [Draft Ideas](ideas.md)
 
